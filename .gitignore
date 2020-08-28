@@ -1,0 +1,10 @@
+# Project exclude paths
+node_modules
+
+.idea
+
+dist
+
+config.env
+
+package-lock.json
